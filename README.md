@@ -22,3 +22,4 @@
 -Оптимизировал и переименовал переменные:
 (Переменная $ret на $allVacancies для понятности, а переменная $found была на $foundVacancy).
 # questions_to_applicant
+# questions_to_applicant
